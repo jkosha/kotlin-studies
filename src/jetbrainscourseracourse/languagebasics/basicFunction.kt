@@ -1,4 +1,4 @@
-package languagebasics
+package jetbrainscourseracourse.languagebasics
 
 fun max0(a: Int, b: Int): Int {
     return if (a > b) a else b

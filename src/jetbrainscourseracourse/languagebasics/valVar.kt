@@ -1,4 +1,4 @@
-package languagebasics
+package jetbrainscourseracourse.languagebasics
 
 val a = "cannot be modified"
 var b = " can be modified"
